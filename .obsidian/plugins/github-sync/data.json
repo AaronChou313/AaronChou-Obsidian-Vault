@@ -1,7 +1,7 @@
 {
   "remoteURL": "git@github.com:AaronChou313/AaronChou-Obsidian-Vault.git",
-  "gitLocation": "",
+  "gitLocation": "C:\\Users\\zhoum\\Github\\AaronChou-Obsidian-Vault",
   "syncinterval": 0,
-  "isSyncOnLoad": false,
+  "isSyncOnLoad": true,
   "checkStatusOnLoad": true
 }
