@@ -167,13 +167,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1881031602ef2b0d",
+  "active": "9c64cc550e7dd0dc",
   "lastOpenFiles": [
-    "学习要点大纲.canvas",
-    "README.md",
+    "inertial navigation/惯性导航知识点概述.md",
     "AI/什么是人工智能、机器学习.md",
+    "README.md",
+    "学习要点大纲.canvas",
     "AI",
-    "inertial navigation/知识点概述.md",
     "inertial navigation/integrated algorithms/联邦滤波器.md",
     "inertial navigation/integrated algorithms/互补滤波器.md",
     "inertial navigation/integrated algorithms/因子图优化.md",
