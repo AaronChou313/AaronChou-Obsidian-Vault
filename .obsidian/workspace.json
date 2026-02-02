@@ -8,17 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b689fc6f30af3cec",
+            "id": "1881031602ef2b0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "inertial navigation/Overview of Knowledge Points.md",
-                "mode": "source",
-                "source": false
+                "file": "学习要点大纲.canvas",
+                "viewState": {
+                  "x": 105,
+                  "y": -10,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Overview of Knowledge Points"
+              "icon": "lucide-layout-dashboard",
+              "title": "学习要点大纲"
             }
           }
         ]
@@ -167,10 +170,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9c64cc550e7dd0dc",
+  "active": "1881031602ef2b0d",
   "lastOpenFiles": [
-    "inertial navigation/basic theories/What is inertial navigation.md",
-    "inertial navigation/Overview of Knowledge Points.md",
+    "AI/什么是人工智能、机器学习.md",
+    "学习要点大纲.canvas",
+    "AI",
+    "inertial navigation/知识点概述.md",
+    "inertial navigation/integrated algorithms/联邦滤波器.md",
+    "inertial navigation/integrated algorithms/互补滤波器.md",
+    "inertial navigation/integrated algorithms/因子图优化.md",
+    "inertial navigation/integrated algorithms/卡尔曼滤波器.md",
+    "inertial navigation/math methods/龙格库塔法.md",
+    "inertial navigation/math methods",
+    "inertial navigation/basic theories/什么是惯性导航.md",
     "inertial navigation/integrated algorithms",
     "inertial navigation/inertial algorithms",
     "inertial navigation/front-end preprocessing",
