@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ]
@@ -170,7 +170,7 @@
   "active": "1881031602ef2b0d",
   "lastOpenFiles": [
     "学习要点大纲.canvas",
-    "README.md.md",
+    "README.md",
     "AI/什么是人工智能、机器学习.md",
     "AI",
     "inertial navigation/知识点概述.md",
